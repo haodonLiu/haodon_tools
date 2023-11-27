@@ -1,0 +1,3 @@
+A.Tsubaki, M., Tomii, K. & Sese, J. Compound-protein interaction prediction with end-to-end learning of neural networks for graphs and sequences. Bioinformatics 35, 309–318 (2019).
+B.Dong, Q.-W., Wang, X.-L. & Lin, L. Application of latent semantic analysis to 
+protein remote homology detection. Bioinformatics 22, 285–290 (2006).
